@@ -16,7 +16,7 @@ st.header("การวิเคราะห์ความรู้สึกภ
 st.subheader("Chutima Suksamai")
 st.image('./image/001.jpg')
 
-lot3="https://lottie.host/2e099151-4397-40ad-ae7b-249bbaf1e8df/gluEhZplO8.json"
+lot3="https://lottie.host/3d462873-9b5f-4269-88e3-aec72bd823b3/nsnU9gsvXR.json"
 lottie3 = load_lottieurl(lot3)
 st_lottie(lottie3)
 st.balloons()
