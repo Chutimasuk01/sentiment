@@ -11,6 +11,7 @@ def load_lottieurl(url: str):
         return None
     return r.json()
 
+
 st.header("การวิเคราะห์ความรู้สึกภาษาไทย")
 st.subheader("Chutima Suksamai")
 st.image('./image/001.jpg')
